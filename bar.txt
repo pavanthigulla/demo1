@@ -1,0 +1,1 @@
+staging bar.txt file
